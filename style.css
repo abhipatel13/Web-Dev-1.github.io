@@ -207,6 +207,7 @@ header .navbar a:hover{
     cursor: pointer;
     border-radius:.5rem ;
     transition: 0.4s;
+    margin-top: 2rem;
 
 }
 
@@ -282,6 +283,7 @@ header .navbar a:hover{
          position: relative;
          overflow:hidden;
          /* outline: cover; */
+         margin-top: 2rem;
      }
 
      .gallery .gallery-container .gallery-box img{
